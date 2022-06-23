@@ -1,6 +1,8 @@
 ---
 title: Old Methods
 date: 2016-06-07
+author: "Wade Allen"
+type: "post"
 ---
  
 As we continue to consider the twelve disciples in worship, we focus on James this week. While he is one of the lead disciples, he is seldom mentioned alone in Scripture. In fact, the only time he is cited without his brother John is when he is martyred in Acts 12.

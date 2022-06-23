@@ -1,6 +1,8 @@
 ---
 title: His Return
 date: 2015-12-01
+author: "Wade Allen"
+type: "post"
 ---
 
 During this season of Advent, we are following the lectionary passages. This year the epistle passages deal with Jesus' return. We don't always consider this facet of Advent. We think of the birth of Jesus, His first coming; we often ignore His second coming.

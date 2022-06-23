@@ -1,6 +1,8 @@
 ---
 title: Dropping Everything
 date: 2016-01-27
+author: "Wade Allen"
+type: "post"
 ---
  
 It has been a while since I have posted on this blog. My time has been devoted to other ventures. However, I keep coming back to the issue of discernment. It is close to the heart of ministry; I am especially cognizant of God's continual leading. He often calls us in new and different directions. He sometimes surprises us, catches us off guard. God often works like this.

@@ -1,6 +1,8 @@
 ---
 title: Fetching a Colt
 date: 2016-03-15
+author: "Wade Allen"
+type: "post"
 ---
  
 In preparation for Palm Sunday, I was reading the lectionary text for this week. As I studied the text, I noticed a few key words that point us toward discernment. Luke records Jesus' entry into Jerusalem in Luke 19:28ff. He begins,

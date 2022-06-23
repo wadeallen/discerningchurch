@@ -1,6 +1,8 @@
 ---
 title: Rethinking Decisions
 date: 2015-06-23
+author: "Wade Allen"
+type: "post"
 ---
  
 As I continue to explore the life of Solomon, I find increasing application around the issue of discernment. Most are familiar with the story in 1 Kings 3 of Solomon's opportunity to ask God for anything he desires. 

@@ -1,6 +1,8 @@
 ---
 title: Calling Shotgun
 date: 2016-02-23
+author: "Wade Allen"
+type: "post"
 ---
  
 I am preaching tomorrow at a community-wide Lenten service. It is wonderful to join with other Christians through the season of Lent. As we approach Resurrection Sunday, we remember Jesus' journey to the Cross. Tomorrow's text is Mark 10:32-45.

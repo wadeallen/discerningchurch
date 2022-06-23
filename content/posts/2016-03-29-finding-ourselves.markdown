@@ -1,6 +1,8 @@
 ---
 title: Finding Ourselves
 date: 2016-03-29
+author: "Wade Allen"
+type: "post"
 ---
  
 We often hear people describing ventures of self-seeking. They retreat from the normal pace of life to _find themselves_. Maybe it is a multi-week hike into the mountains or even a rebellion against the rules of society. They feel lost and need clarity around their identity.

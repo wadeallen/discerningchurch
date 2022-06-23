@@ -1,6 +1,8 @@
 ---
 title: Prompting
 date: 2016-04-26
+author: "Wade Allen"
+type: "post"
 ---
  
 A few weeks ago, I was directed by the lectionary to Acts 11. I found this passage so compelling that I decided to spend an extended period of time mediating on it. I slowly read through each verse and looked for words that stuck out to me. I found this story astonishingly relevant to the issue of discerning in churches.

@@ -1,6 +1,8 @@
 ---
 title: Clean Water
 date: 2016-08-25
+author: "Wade Allen"
+type: "post"
 ---
  
 In following the lectionary readings as a part of a devotional time, I came to a passage in Jeremiah that caught my attention. Jeremiah is proclaiming God's reaction to the disobedience of His people. 
