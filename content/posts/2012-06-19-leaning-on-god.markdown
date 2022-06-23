@@ -1,6 +1,8 @@
 ---
 date: 2012-06-19 22:16:48
 title: Leaning on God
+author: "Wade Allen"
+type: "post"
 ---
 
 In a few weeks, I will be preaching from Genesis 24, the search for Isaac's wife. The story is one of adventure, doubt, anticipation and relief. Abraham commissions one of his servants to return to his homeland to find a wife for his son. If we rewind a bit, we remember that Abraham was called out of that land by God. While he resides in God's chosen place, it is still occupied by a pagan people; he doesn't want his son to be negatively influenced by a Canaanite wife.

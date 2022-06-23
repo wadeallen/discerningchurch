@@ -1,6 +1,8 @@
 ---
 date: 2012-09-18
 title: Adventure
+author: "Wade Allen"
+type: "post"
 ---
 
 Our leadership team is facing a fair amount of turnover this year. Our church constitution requires three-year terms; each leader must sit out for a year between terms. The nominating team often complains that few are willing to serve in leadership roles. I wonder why this is the case. 
