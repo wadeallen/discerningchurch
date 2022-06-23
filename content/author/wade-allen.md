@@ -1,7 +1,7 @@
 ---
 title: "Wade Allen"
-image: "/images/author/john-doe.jpg"
-description: "Pastor"
+image: "/images/author/wade-allen.jpg"
+description: "Pastor at The United Church"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Wade Allen is the Pastor at The United Church in Canandaigua, New York. Wade attended Liberty University (BA), Southern Seminary (MDiv), and Northern Seminary (DMin). Wade is married to Christy (1994) and they have three children, Anna (1997), Dawson (1998), and Levi (2004). Wade enjoys computers, mountain biking, running, great coffee, reading and all sorts of sports. He particularly enjoys Georgia Bulldog football.
