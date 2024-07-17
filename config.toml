@@ -69,7 +69,7 @@ home = "Home"
 logo = "images/dc-logo.png"
 # meta data
 author = "Wade Allen"
-description = "This is meta description"
+description = "A blog about discerning in the church"
 # google tag manager
 google_tag_manager = "" # your id
 # contact form action
